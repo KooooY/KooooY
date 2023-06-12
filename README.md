@@ -1,6 +1,6 @@
-### ❓ 질문으로 성장하는 프론트엔드 개발자 권오연입니다
+## ❓ 질문으로 성장하는 프론트엔드 개발자 권오연입니다
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용&fontSize=90" />
+
 <!--
 **KooooY/KooooY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
